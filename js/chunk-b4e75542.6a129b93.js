@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-b4e75542"],{4901:function(n,t,e){},"4c8d":function(n,t,e){"use strict";e.r(t);var s=function(){var n=this,t=n.$createElement,e=n._self._c||t;return e("div",{staticClass:"signature"},[n._v("\n  招牌设计相关内容暂无\n")])},u=[],a={name:"signature"},c=a,i=(e("b623"),e("2877")),r=Object(i["a"])(c,s,u,!1,null,null,null);t["default"]=r.exports},b623:function(n,t,e){"use strict";var s=e("4901"),u=e.n(s);u.a}}]);
+//# sourceMappingURL=chunk-b4e75542.6a129b93.js.map

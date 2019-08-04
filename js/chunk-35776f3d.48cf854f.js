@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-35776f3d"],{"31c7":function(n,t,c){"use strict";var s=c("d218"),a=c.n(s);a.a},b683:function(n,t,c){"use strict";c.r(t);var s=function(){var n=this,t=n.$createElement,c=n._self._c||t;return c("div",{staticClass:"signboard"},[n._v("\n  标识牌设计相关内容暂无\n")])},a=[],e={name:"signboard"},i=e,u=(c("31c7"),c("2877")),r=Object(u["a"])(i,s,a,!1,null,null,null);t["default"]=r.exports},d218:function(n,t,c){}}]);
+//# sourceMappingURL=chunk-35776f3d.48cf854f.js.map
